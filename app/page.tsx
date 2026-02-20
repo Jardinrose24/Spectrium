@@ -3,12 +3,11 @@
 import { useState, useEffect } from "react"
 
 const wallpapers = [
-  { src: "/wallpapers/wallpaper-01.jpg", alt: "Blue and teal light trails" },
-  { src: "/wallpapers/wallpaper-02.jpg", alt: "Amber and gold light refraction" },
-  { src: "/wallpapers/wallpaper-03.jpg", alt: "Silver smoke wisps" },
-  { src: "/wallpapers/wallpaper-04.jpg", alt: "Emerald bioluminescent glow" },
-  { src: "/wallpapers/wallpaper-05.jpg", alt: "Rose and crimson light" },
-  { src: "/wallpapers/wallpaper-06.jpg", alt: "Indigo nebula formations" },
+  { src: "/wallpapers/Spectrium Emerald.png", alt: "" },
+  { src: "/wallpapers/Spectrium blue.png", alt: "" },
+  { src: "/wallpapers/Spectrium burbon.png", alt: "" },
+  { src: "/wallpapers/Spectrium joker.png", alt: "" },
+  { src: "/wallpapers/Spectrium red.png", alt: "" },
 ]
 
 export default function Page() {
