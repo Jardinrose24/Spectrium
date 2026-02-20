@@ -76,7 +76,7 @@ export default function Page() {
           Premium desktop & Mac wallpapers. Clean, cinematic, modern.
         </p>
         <a
-          href="/downloads/spectrium-wallpapers.zip"
+          href="https://jardinrose24.itch.io/spectrium"
           className="mt-10 inline-flex items-center gap-2 rounded-full bg-foreground px-8 py-3.5 text-sm font-medium text-background transition-opacity hover:opacity-90"
         >
           <svg className="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2}>
